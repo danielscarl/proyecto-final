@@ -1,0 +1,38 @@
+.navbar-nav {
+    font-style: oblique;
+}
+
+.contenido-row {
+    border: 2px solid gainsboro;
+}
+
+.contenido-col {
+    border: 2px solid white;
+}
+
+.contenido-text {
+    text-align: center;
+    color: crimson;
+}
+
+.texto {
+    text-align: center;
+    color: rgb(245, 77, 77);
+    font-size: 5mm;
+}
+
+.links-col {
+    align-items: center;
+}
+
+.ref {
+    font-size: 5mm;
+    forced-color-adjust: red;
+    text-align: center;
+    font-style: italic;
+}
+
+.card-text {
+    font-size: 5mm;
+    font-style: oblique;
+}
